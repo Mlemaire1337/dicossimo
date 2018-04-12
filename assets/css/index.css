@@ -1,0 +1,25 @@
+
+.big-search{
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: #2CCCA1;
+    border: solid 15px #ffffff;
+    -webkit-box-shadow: 0px 6px 6px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: 0px 6px 6px 0px rgba(0,0,0,0.16);
+    box-shadow: 0px 6px 6px 0px rgba(0,0,0,0.16);;
+}
+
+
+
+.big-search div{
+    font-size: 3em;
+}
+
+.medium-search div{
+    font-size: 2em;
+}
+
+.homepage{
+    height: 85vh;
+}
